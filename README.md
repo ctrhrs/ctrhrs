@@ -1,9 +1,3 @@
-@OSSDAO-ORG•AIRDROP-0x386E90f32a260549F28bA7EFF51a32a22615F4d8
-
-
-
-
-
 - 👋 Hi, I’m @ctrhrs
 - 👀 I’m interested in future currency
 - 🌱 I’m currently learning cryptocurrency
